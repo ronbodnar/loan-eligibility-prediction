@@ -8,7 +8,7 @@ This project focuses on predicting loan approval outcomes through an extensive a
 
 - **Notebook:** [`main.ipynb`](main.ipynb) - The Jupyter Notebook containing the entire project, from data exploration to model building and evaluation.
 
-- **Dataset:** [`loan_data.csv`](https://raw.githubusercontent.com/ronbodnar/c964-loan-prediction/main/loan_data.csv) - The dataset used for training and testing the predictive model.
+- **Dataset:** [`loan_data.csv`](https://raw.githubusercontent.com/ronbodnar/loan-eligibility-prediction/main/loan_data.csv) - The dataset used for training and testing the predictive model.
 
 ## Key Features
 
@@ -47,9 +47,9 @@ This project focuses on predicting loan approval outcomes through an extensive a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ronbodnar/c964-loan-prediction.git
+   git clone https://github.com/ronbodnar/loan-eligibility-prediction.git
 
-2. Open and run the Jupyter Notebook C964_CS_Capstone.ipynb using your preferred environment.
+2. Open and run the Jupyter Notebook main.ipynb using your preferred environment.
 
 3. Explore the project, analyze the code, and interact with the loan eligibility prediction UI.
 
