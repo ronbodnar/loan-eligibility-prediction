@@ -1,4 +1,4 @@
-# Loan Approval Prediction Project
+# Loan Eligibility Determiniation Prediction Project
 
 ## Overview
 
